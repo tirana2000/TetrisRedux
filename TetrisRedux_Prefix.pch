@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'TetrisRedux' target in the 'TetrisRedux' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
