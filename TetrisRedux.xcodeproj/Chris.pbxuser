@@ -8,9 +8,9 @@
 	};
 	1F3B9A2B0EF2145700286867 /* TetrisReduxAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {827, 1157}}";
-			sepNavSelRange = "{1481, 67}";
-			sepNavVisRange = "{254, 1298}";
+			sepNavIntBoundsRect = "{{0, 0}, {705, 1170}}";
+			sepNavSelRange = "{1669, 26}";
+			sepNavVisRange = "{1183, 1182}";
 			sepNavWindowFrame = "{{75, 470}, {642, 703}}";
 		};
 	};
@@ -103,8 +103,8 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 309826441;
-			PBXWorkspaceStateSaveDate = 309826441;
+			PBXPerProjectTemplateStateSaveDate = 310096724;
+			PBXWorkspaceStateSaveDate = 310096724;
 		};
 		perUserProjectItems = {
 			835F1D161277A07900436EE0 /* PBXBookmark */ = 835F1D161277A07900436EE0 /* PBXBookmark */;
@@ -121,7 +121,6 @@
 			835F1D221277A07900436EE0 /* PBXTextBookmark */ = 835F1D221277A07900436EE0 /* PBXTextBookmark */;
 			835F1D231277A07900436EE0 /* PBXTextBookmark */ = 835F1D231277A07900436EE0 /* PBXTextBookmark */;
 			835F1D241277A07900436EE0 /* PBXTextBookmark */ = 835F1D241277A07900436EE0 /* PBXTextBookmark */;
-			835F1D251277A07900436EE0 /* PBXTextBookmark */ = 835F1D251277A07900436EE0 /* PBXTextBookmark */;
 			835F1D301277A21000436EE0 /* PBXTextBookmark */ = 835F1D301277A21000436EE0 /* PBXTextBookmark */;
 			835F1D3B1277ACEB00436EE0 /* PBXTextBookmark */ = 835F1D3B1277ACEB00436EE0 /* PBXTextBookmark */;
 			835F1D3C1277ACEB00436EE0 /* PBXTextBookmark */ = 835F1D3C1277ACEB00436EE0 /* PBXTextBookmark */;
@@ -132,8 +131,9 @@
 			835F1D411277ACEB00436EE0 /* PBXTextBookmark */ = 835F1D411277ACEB00436EE0 /* PBXTextBookmark */;
 			835F1D421277ACEB00436EE0 /* PBXTextBookmark */ = 835F1D421277ACEB00436EE0 /* PBXTextBookmark */;
 			835F1D431277ACEB00436EE0 /* PBXTextBookmark */ = 835F1D431277ACEB00436EE0 /* PBXTextBookmark */;
-			835F1D441277ACEB00436EE0 /* PBXTextBookmark */ = 835F1D441277ACEB00436EE0 /* PBXTextBookmark */;
-			835F1D451277ACEB00436EE0 /* PBXTextBookmark */ = 835F1D451277ACEB00436EE0 /* PBXTextBookmark */;
+			83842348127BB369009B4045 /* PBXTextBookmark */ = 83842348127BB369009B4045 /* PBXTextBookmark */;
+			83842349127BB369009B4045 /* PBXTextBookmark */ = 83842349127BB369009B4045 /* PBXTextBookmark */;
+			83842350127BC345009B4045 /* PBXTextBookmark */ = 83842350127BC345009B4045 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 838ED88912775DED0023E9A9 /* Source Control */;
 		userBuildSettings = {
@@ -285,7 +285,7 @@
 		);
 		name = "/Users/Chris/Documents/Xcode Projects/TetrisRedux/Resources/Info.plist";
 		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 9223372036854775808;
 	};
 	835F1D191277A07900436EE0 /* PBXBookmark */ = {
 		isa = PBXBookmark;
@@ -391,16 +391,6 @@
 		vrLen = 421;
 		vrLoc = 0;
 	};
-	835F1D251277A07900436EE0 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 1F3B9A2B0EF2145700286867 /* TetrisReduxAppDelegate.m */;
-		name = "TetrisReduxAppDelegate.m: 53";
-		rLen = 67;
-		rLoc = 1481;
-		rType = 0;
-		vrLen = 1298;
-		vrLoc = 254;
-	};
 	835F1D301277A21000436EE0 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 838ED88C12775F0C0023E9A9 /* MainMenuScene.m */;
@@ -501,7 +491,7 @@
 		vrLen = 1493;
 		vrLoc = 0;
 	};
-	835F1D441277ACEB00436EE0 /* PBXTextBookmark */ = {
+	83842348127BB369009B4045 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 50F41312106926B2002A0D5E /* CDataScanner.h */;
 		name = "CDataScanner.h: 1";
@@ -511,15 +501,25 @@
 		vrLen = 1404;
 		vrLoc = 0;
 	};
-	835F1D451277ACEB00436EE0 /* PBXTextBookmark */ = {
+	83842349127BB369009B4045 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
-		fRef = 50F41312106926B2002A0D5E /* CDataScanner.h */;
-		name = "CDataScanner.h: 1";
-		rLen = 0;
-		rLoc = 0;
+		fRef = 1F3B9A2B0EF2145700286867 /* TetrisReduxAppDelegate.m */;
+		name = "TetrisReduxAppDelegate.m: 53";
+		rLen = 67;
+		rLoc = 1481;
 		rType = 0;
-		vrLen = 1404;
-		vrLoc = 0;
+		vrLen = 1297;
+		vrLoc = 254;
+	};
+	83842350127BC345009B4045 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1F3B9A2B0EF2145700286867 /* TetrisReduxAppDelegate.m */;
+		name = "TetrisReduxAppDelegate.m: 61";
+		rLen = 26;
+		rLoc = 1669;
+		rType = 0;
+		vrLen = 1182;
+		vrLoc = 1183;
 	};
 	838ED87B12775DCE0023E9A9 /* TetrisRedux */ = {
 		isa = PBXExecutable;
